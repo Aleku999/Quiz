@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz1</string>
+    <string name="tv_login_name">Bienvenido al sistema de login a otro nivel</string>
+    <string name="hint_user_name">Usuario</string>
+    <string name="hint_password_name">Contraseña</string>
+    <string name="btn_access_name">INGRESAR</string>
+
+
+    <string name="tv_hello_name">Hola Administrador</string>
+    <string name="tv_construccion_name">Este perfil se encuentra bajo construcción. Próximamente disfruta el mejor contenido en esta Activity</string>
+    <string name="btn_close_name">CERRAR SESIÓN</string>
+
+</resources>
